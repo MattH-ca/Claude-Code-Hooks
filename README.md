@@ -1,9 +1,5 @@
 # Claude Code Hooks Mastery
 
-[Claude Code Hooks](https://docs.anthropic.com/en/docs/claude-code/hooks) - Quickly master how to use Claude Code hooks to add deterministic (or non-deterministic) control over Claude Code's behavior. Plus learn about [Claude Code Sub-Agents](#claude-code-sub-agents) and the powerful [Meta-Agent](#the-meta-agent).
-
-<img src="images/hooked.png" alt="Claude Code Hooks" style="max-width: 800px; width: 100%;" />
-
 ## Prerequisites
 
 This requires:
